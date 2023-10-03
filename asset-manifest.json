@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Manasa_Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Manasa_Portfolio/static/js/main.b6b0b10e.js",
+    "static/media/Manasa.png": "/Manasa_Portfolio/static/media/Manasa.5d6cad5c5ac9018a1fe7.png",
+    "index.html": "/Manasa_Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Manasa_Portfolio/static/css/main.bf538fe7.css.map",
+    "main.b6b0b10e.js.map": "/Manasa_Portfolio/static/js/main.b6b0b10e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b6b0b10e.js"
+  ]
+}
